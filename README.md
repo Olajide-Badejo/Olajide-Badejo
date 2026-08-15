@@ -48,7 +48,7 @@ experiment tooling, are on the profile.
 
 - MSc Computational Engineering, Ruhr-Universität Bochum, 2024 to present
 - BEng Mechanical Engineering, Federal University of Technology Akure, 2017 to 2023, First Class Honors
-- Engineering Intern, Simulation and Optimization, Whitelegg Nigeria Ltd, 2023 to 2024
-- Data Engineering Intern, Monitoring and Automation, Chikki Foods Industries, 2021
+- Software Engineer, Whitelegg Nigeria Limited, Lagos, 2023 to 2024
+- Data Engineering Intern, Monitoring Automation, Chikki Foods Industries, Lagos, 2021
 
 <!-- Recognition: section intentionally reserved; add awards, talks, or publications here when there is one worth a recruiter's time. -->
