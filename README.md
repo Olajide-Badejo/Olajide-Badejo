@@ -46,8 +46,8 @@ experiment tooling, are on the profile.
 
 ## Education and experience
 
-- MSc Computational Engineering, Ruhr-Universität Bochum, 2024 to present
-- BEng Mechanical Engineering, Federal University of Technology Akure, 2017 to 2023, First Class Honors
+- MSc Computational Engineering, Ruhr-Universität Bochum, 2024 to present, current CGPA 1.9 (German scale, 1.0 best)
+- BEng Mechanical Engineering, Federal University of Technology Akure, 2017 to 2023, CGPA 1.1 (German scale, 1.0 best)
 - Software Engineer, Whitelegg Nigeria Limited, Lagos, 2023 to 2024
 - Data Engineering Intern, Monitoring Automation, Chikki Foods Industries, Lagos, 2021
 
