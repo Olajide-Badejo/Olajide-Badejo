@@ -51,7 +51,7 @@ experiment tooling, are on the profile.
 
 ## Skills
 
-**Programming languages:** C++, Python, C, CUDA, SystemVerilog, Assembly (x86-64, AArch64), MATLAB  
+**Programming languages:** C++, Python, C, CUDA, SystemVerilog, Fortran, Assembly (x86-64, AArch64), MATLAB  
 **GPU and HPC:** CUDA kernel optimization, tensor core programming (mma.sync, WMMA), OpenMP, MPI, pthreads and C++ threads, SIMD (AVX2, NEON), Nsight profiling, roofline and speed of light analysis  
 **Compilers and hardware:** MLIR, LLVM, ONNX lowering, RTL design and formal verification (SymbiYosys), Yosys and OpenSTA flows  
 **ML and frameworks:** PyTorch, torch.distributed, NumPy, pandas, experiment tracking and training diagnostics  
